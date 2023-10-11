@@ -1,7 +1,4 @@
-here i am going to clone 
-the netflix ott platform 
-using html,css and
-javascript
+Here The Netflix Online OTT Platform Is Cloned Using HTML,CSS and Javascript
 
 
 # Netflix
